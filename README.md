@@ -141,9 +141,9 @@ while True:
 client.close()
 ```
 ## Output
-Server side\n
-<img width="369" height="157" alt="image" src="https://github.com/user-attachments/assets/ec3e17c3-aa66-4fe3-b93c-44e29a5aaae2" />
-Client side
+Server side\
+<img width="369" height="157" alt="image" src="https://github.com/user-attachments/assets/ec3e17c3-aa66-4fe3-b93c-44e29a5aaae2" />\
+Client side\
 <img width="538" height="133" alt="image" src="https://github.com/user-attachments/assets/9c43494f-c3c9-4925-98cf-9564a96d1429" />
 
 
